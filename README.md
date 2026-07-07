@@ -9,6 +9,11 @@ you stop being the copy-paste bus between them.
 [![Python](https://img.shields.io/pypi/pyversions/aion.svg)](https://pypi.org/project/aion/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
+[![Add aion to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](cursor://anysphere.cursor-deeplink/mcp/install?name=aion&config=eyJjb21tYW5kIjogInV2eCIsICJhcmdzIjogWyJhaW9uIl19)
+
+> One-click install for Cursor (activates once aion is published to PyPI). Remember to
+> set `AION_SOURCE=cursor` in the server's env afterwards.
+
 ---
 
 ## The problem
