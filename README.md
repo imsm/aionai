@@ -9,10 +9,10 @@ you stop being the copy-paste bus between them.
 [![Python](https://img.shields.io/pypi/pyversions/aionai.svg)](https://pypi.org/project/aionai/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-[![Add aionai to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](cursor://anysphere.cursor-deeplink/mcp/install?name=aionai&config=eyJjb21tYW5kIjogInV2eCIsICJhcmdzIjogWyJhaW9uYWkiXX0=)
+[![Add aionai to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=aionai&config=eyJjb21tYW5kIjogInV2eCIsICJhcmdzIjogWyJhaW9uYWkiXX0=)
 
-> One-click install for Cursor (activates once aionai is published to PyPI). Remember to
-> set `AIONAI_SOURCE=cursor` in the server's env afterwards.
+> One-click install for Cursor. After it's added, set `AIONAI_SOURCE=cursor` in the
+> server's env. (Prefer manual setup? See [Connect your tools](#connect-your-tools).)
 
 ---
 
